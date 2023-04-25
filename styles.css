@@ -1,6 +1,4 @@
-/** global element styling **/
 
-@import 'https://fonts.googleapis.com/css?family=Lato:400,700';
 
 * {
   margin: 0;
@@ -26,7 +24,7 @@ a {
   text-decoration: none;
 }
 
-/** global classes styling **/
+
 
 .container {
   max-width: 1000px;
